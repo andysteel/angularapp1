@@ -5,5 +5,5 @@ import { Component } from '@angular/core'
     templateUrl: './topo.component.html'
 })
 export class TopoComponent {
-    public titulo:string = "Aprendendo Ingles"
+    public titulo:string = "Aprendendo English"
 }
